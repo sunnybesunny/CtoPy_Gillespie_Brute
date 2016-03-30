@@ -1,1 +1,2 @@
-# CtoPy_Gillespie_Brute
+*Translating Gillespie_brute written in C into python 
+* mskang@mit.edu
