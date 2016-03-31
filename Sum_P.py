@@ -1,9 +1,9 @@
 #
 # sum_prop.c
-# 
+#
  # Created on: Oct 23, 2015
      # Author: User1
-# 
+#
 
 ##include <stdio.h>              /* This program simulates dynamics of affinity maturation in germinal centers */
 ##include <stdlib.h>
@@ -14,7 +14,6 @@
 
 def Sum_P(P,num_RXN_curr):
 	sum_prop=0
-
 	for i in range(num_RXN_curr):
 			sum_prop = sum_prop+P[i]
 
@@ -25,5 +24,3 @@ def Sum_P(P,num_RXN_curr):
 #					printf("Sum_P.prop\n %e \n",sum_prop)
 #
 #/////////////////////////////////////////////////////////////////////////////////
-
-
