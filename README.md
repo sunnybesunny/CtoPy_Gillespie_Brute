@@ -1,2 +1,1 @@
-*Translating Gillespie_brute written in C into python 
-* mskang@mit.edu
+*Translating C to python Gillespie brute 
